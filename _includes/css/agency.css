@@ -13,7 +13,8 @@ body {
 .text-muted {
     color: #777;
 }
-
+.Logo-Design {
+background-color: aquamarine;width:20px;height:20px;background-image: url(../img/map-image.png);}
 .text-primary {
     color: #{{ site.color.primary }};
 }
