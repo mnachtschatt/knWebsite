@@ -14,9 +14,9 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay gay
+- name: Marjan Kusebauch
   pic: 1
-  position: Lead Designer
+  position: Graphic Designer
   social:
     - title: twitter
       url: #
@@ -25,9 +25,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry PPPPP
+- name: Moritz Nachtschatt
   pic: 2
-  position: Lead Marketer
+  position: Photographer and Chief of Business
   social:
     - title: twitter
       url: #
