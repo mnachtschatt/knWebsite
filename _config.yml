@@ -8,8 +8,8 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 23CF37
-  secondary: fec503  
+  primary: 4AEDDC
+  secondary: DD92F0  
   secondary-dark: 333
 
 # Team names, titles and social links
@@ -18,7 +18,7 @@ people:
   pic: 1
   position: Graphic Designer
   social:
-    - title: twitter
+    - title: tumblr
       url: #
     - title: facebook
       url: #
