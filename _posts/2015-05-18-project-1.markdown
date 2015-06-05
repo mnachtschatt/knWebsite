@@ -3,9 +3,9 @@ title: Dreams
 subtitle: Website Design
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: Ice Dream Factory.jpg
-thumbnail: Ice Dream Factory-thumbnail.jpg
+date: 2011-07-18
+img: IceDreamFactory.jpg
+thumbnail: IceDreamFactory-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
