@@ -1,0 +1,21 @@
+-   title: Omnom Titel
+    subtitle: Omnom Subtitel
+    modal-id: 1
+    img: OmnomBurger.jpg
+    thumbnail: OmnomBurger.jpg
+    alt: Omnom bild beschreibung
+    project-date: April 2014
+    client: Omnom Burger
+    category: Web Development
+    description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+    
+-   title: Ice Drea Titel
+    subtitle: Ice Dream Subtitel
+    modal-id: 2
+    img: IceDreamFactory.jpg
+    thumbnail: IceDreamFactory-thumbnail.jpg
+    alt: Ice Dream bild beschreibung
+    project-date: April 2014
+    client: Ice Dream Client
+    category: Web Development
+    description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
