@@ -342,7 +342,7 @@ section h2.section-heading {
     font-size: 40px;
 }
 
-.emaillink {
+.emaillink {display: block;
 margin-bottom: 75px;
 }
 
