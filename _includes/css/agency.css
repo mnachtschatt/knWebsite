@@ -342,8 +342,15 @@ section h2.section-heading {
     font-size: 40px;
 }
 
-.emaillink {
+.emaillink {display: block;
 margin-bottom: 75px;
+}
+
+.footertext {
+font-size: 10px !important;
+font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif !important;
+line-height: 15px !important;
+color: darkgray !important;
 }
 
 section h3.section-subheading {
