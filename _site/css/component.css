@@ -26,11 +26,13 @@
 }
 
 .grid-gallery figcaption h3 {
+    font-size: 14px;
 	margin: 0;
 	padding: 0 0 0.5em;
 }
 
 .grid-gallery figcaption p {
+    font-size: 13px;
 	margin: 0;
 }
 
