@@ -10,6 +10,12 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+.hoch {
+    width: auto !important;
+    height: 100% !important;
+    margin-left: auto !important;
+   margin-right: auto !important;
+}
 
 body {
     overflow-x: hidden;
@@ -343,13 +349,17 @@ section h2.section-heading {
     font-size: 40px;
 }
 
+.emaillink {
+margin-bottom: 75px;
+}
+
 section h3.section-subheading {
-    margin-bottom: 75px;
     text-transform: none;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
     font-style: italic;
     font-weight: 400;
+    line-height: 25px;
 }
 
 @media(min-width:768px) {
