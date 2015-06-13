@@ -272,6 +272,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
+    width: 100%;
     text-align: center;
     color: #fff;
     background-attachment: scroll;
@@ -904,5 +905,15 @@ img::-moz-selection {
 }
 
 body {
+    margin:0; padding:0
     webkit-tap-highlight-color: #{{ site.color.primary }};
+}
+
+@media(max-width:640px) {
+    section h2.section-heading {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 26px;
+}
+
 }
