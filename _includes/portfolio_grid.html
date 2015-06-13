@@ -31,8 +31,13 @@
 		{% for post in site.data.gallery  %}
 		<li>
 			<figure>
-				<img src="img/large/{{ post.photo }}" alt="img"/>
-				<figcaption><h3>{{ post.caption_header}}</h3><p>{{ post.caption }}</p></figcaption>
+                {% if post.format == "hoch" %}               
+                    <img class="hoch" src="img/large/{{ post.photo }}" alt="img"/>
+                {% else %}                
+                    <img class="quer" src="img/large/{{ post.photo }}" alt="img"/>
+                {% endif %}
+				<!--
+				<figcaption><h3>{{ post.caption_header}}</h3><p>{{ post.caption }}</p></figcaption> -->
 			</figure>
 		</li>
 		{% endfor %}

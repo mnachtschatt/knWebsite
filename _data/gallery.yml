@@ -2,39 +2,49 @@
 - photo: 5.jpg
   caption_header: Black and White
   caption: Art
+  format: quer
 
 - photo: 6.jpg
   caption_header: Peacefull Protest
   caption: Reportage
+  format: quer
   
 - photo: 1.jpg
   caption_header: Literally Beach Cruiser
   caption: Street/Snapshots
+  format: hoch
 
 - photo: 2.jpg
   caption_header: Delicious
   caption: Advertising/Food
+  format: hoch
   
 - photo: 3.jpg
   caption_header: Just do the morning run
   caption: Sports
+  format: quer
 
 - photo: 4.jpg
   caption_header: Fisherman Owen
   caption: Portraits
+  format: hoch
 
 - photo: 8.jpg
   caption_header: Fishmarket
   caption: Travel/Reportage
+  format: hoch
 
 - photo: 7.jpg
   caption_header: Riot
   caption: Reportage
+  format: quer
 
 - photo: 9.jpg
   caption_header: Watch out its raining
   caption: Travel
+  format: hoch
 
 - photo: 10.jpg
   caption_header: Cultural differences
   caption: Art/Reportage
+  format: quer
