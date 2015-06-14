@@ -15,11 +15,14 @@
 		{% for post in site.data.gallery %}
 		<li>
 			<figure>
-				<img src="img/thumb/{{ post.photo }}" alt="img"/>
+                <a href="img/large/{{ post.photo }}" data-title="{{ post.caption_header}}" data-lightbox="references">
+				<img src="img/thumb/{{ post.photo }}" alt="{{ post.caption_header}}"/>
+                 </a>
 				<figcaption>
 					<h3>{{ post.caption_header}}</h3>
 					<p>{{ post.caption }}</p>
 				</figcaption>
+               
 			</figure>
 		</li>
 		{% endfor %}
@@ -28,26 +31,12 @@
 
 	<section class="slideshow">
 	<ul>
-		{% for post in site.data.gallery  %}
-		<li>
-			<figure>
-                {% if post.format == "hoch" %}               
-                    <img class="hoch" src="img/large/{{ post.photo }}" alt="img"/>
-                {% else %}                
-                    <img class="quer" src="img/large/{{ post.photo }}" alt="img"/>
-                {% endif %}
-				<!--
-				<figcaption><h3>{{ post.caption_header}}</h3><p>{{ post.caption }}</p></figcaption> -->
-			</figure>
-		</li>
-		{% endfor %}
+	
 	</ul>
 	<nav>
-		<span class="icon nav-prev"></span>
-		<span class="icon nav-next"></span>
-		<span class="icon nav-close"></span>
+		
 	</nav>
-	<div class="info-keys icon">Navigate with arrow keys</div>
+	
 	</section><!-- // slideshow -->
 
 	</div><!-- // grid-gallery -->
