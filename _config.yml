@@ -16,23 +16,23 @@ color:
 people:
 - name: Marjan Kusebauch
   pic: 1
-  position: Graphic Designer
+  position: Grafik Designer
   social:
-    - title: tumblr
+    - title:
       url: #
     - title: facebook
-      url: #
+      url: https://www.facebook.com/david.pokorny.925?fref=ts
     - title: instagram
       url: https://instagram.com/kmarjan/
 
 - name: Moritz Nachtschatt
   pic: 2
-  position: Photographer and Chief of Business
+  position: Fotograf und Chief of Business
   social:
     - title: tumblr
       url: http://mnachtschatt.tumblr.com
     - title: facebook
-      url: #
+      url: https://www.facebook.com/mnachtschatt
     - title: instagram
       url: https://instagram.com/mnachtschatt/
       
