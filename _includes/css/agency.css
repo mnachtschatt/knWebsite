@@ -681,12 +681,15 @@ section h3.section-subheading {
 }
 
 .team-member img {
-    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
     border: 7px solid #fff;
 }
 
 .team-member h4 {
-    margin-top: 75px;
+    margin-top: 25px;
     margin-bottom: 0;
     text-transform: none;
 }
