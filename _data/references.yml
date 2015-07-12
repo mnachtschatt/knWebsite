@@ -1,8 +1,8 @@
 -   title: Omnom Burger
     subtitle: Photos
-    modal-id: 1
+    modal-id: 2
     img: OmnomBurger.jpg
-    thumbnail: OmnomBurger.jpg
+    thumbnail: OmnomBurger-Thumbnail.jpg
     alt: Omnom bild beschreibung
     project-date: 2015
     client: Omnom Burger
@@ -11,9 +11,9 @@
     
 -   title: Ice Dream Factory
     subtitle: Videos
-    modal-id: 2
+    modal-id: 1
     img: IceDreamFactory.jpg
-    thumbnail: IceDreamFactory.jpg
+    thumbnail: IceDreamFactory-Thumbnail.png
     alt: Ice Dream bild beschreibung
     project-date: 2015
     client: Ice Dream Factory
@@ -24,7 +24,7 @@
     subtitle: Logo Design
     modal-id: 3
     img: Waffelschmiede.jpg
-    thumbnail: Waffelschmiede.jpg
+    thumbnail: Waffelschmiede-Thumbnail.png
     alt: Waffelschmiede bild beschreibung
     project-date: 2015
     client: Waffelschmiede
