@@ -1,6 +1,6 @@
 -   title: Omnom Burger
     subtitle: Photos
-    modal-id: 2
+    modal-id: 1
     img: OmnomBurger.jpg
     thumbnail: OmnomBurger-Thumbnail.jpg
     alt: Omnom bild beschreibung
@@ -11,7 +11,7 @@
     
 -   title: Ice Dream Factory
     subtitle: Videos
-    modal-id: 1
+    modal-id: 2
     img: IceDreamFactory.jpg
     thumbnail: IceDreamFactory-Thumbnail.png
     alt: Ice Dream bild beschreibung
