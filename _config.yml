@@ -9,8 +9,8 @@ description: "Wir sind eine junge Grafik und Fotografie Firma mit Sitz in Wien. 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 00B5CA
-  secondary: DD92F0  
-  secondary-dark: 333
+  secondary: E4AD0E  
+  secondary-dark: 4D4D4D
 
 # Team names, titles and social links
 people:
