@@ -1,13 +1,13 @@
--   title: Omnom Burger
-    subtitle: Photos
-    modal-id: 1
-    img: OmnomBurger.jpg
-    thumbnail: OmnomBurger-Thumbnail.jpg
-    alt: Omnom bild beschreibung
+-   title: Mensch und Marke
+    subtitle: Corporate Identity
+    modal-id: 4
+    img: 
+    thumbnail: MenschundMarke-Thumbnail.jpg
+    alt: 
     project-date: 2015
-    client: Omnom Burger
-    category: Photos 
-    description: Es war uns eine besondere Freude für das freundliche und dynamische Team von Omnom Burger zu arbeiten und die Fotoserie für sie aufzunehmen.
+    client: Mensch und Marke
+    category: Corporate Identity
+    description: 
     
 -   title: Ice Dream Factory
     subtitle: Videos
@@ -31,16 +31,16 @@
     category: Logo Design
     description: Die Waffelschmiede war für uns ein ganz besonderes Projekt, da es unser erstes Projekt als Firma war. Umso erfreuter waren wir nach nach dem erfolgreichen Abschluss. 
     
--   title: Mensch und Marke
-    subtitle: Corporate Identity
-    modal-id: 4
-    img: 
-    thumbnail: MenschundMarke-Thumbnail.jpg
-    alt: 
+-   title: Omnom Burger
+    subtitle: Photos
+    modal-id: 1
+    img: OmnomBurger.jpg
+    thumbnail: OmnomBurger-Thumbnail.jpg
+    alt: Omnom bild beschreibung
     project-date: 2015
-    client: Mensch und Marke
-    category: Corporate Identity
-    description: 
+    client: Omnom Burger
+    category: Photos 
+    description: Es war uns eine besondere Freude für das freundliche und dynamische Team von Omnom Burger zu arbeiten und die Fotoserie für sie aufzunehmen.
     
 -   title: Bierat
     subtitle: Logo Design
