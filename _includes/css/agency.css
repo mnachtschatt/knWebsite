@@ -17,7 +17,7 @@ body {
 }
 
 .text-muted {
-    color: #777;
+    color: #4D4D4D;
 }
 .Logo-Design {
 background-color: aquamarine;width:20px;height:20px;}
@@ -183,7 +183,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial;
     color: #{{ site.color.primary }};
      padding-right: 5px;  
 }
