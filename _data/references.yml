@@ -8,6 +8,7 @@
     client: Mensch und Marke
     category: Corporate Identity
     description: 
+    link:
     
 -   title: Ice Dream Factory
     subtitle: Videos
@@ -19,6 +20,7 @@
     client: Ice Dream Factory
     category: Videos
     description: 
+    link: http://www.icedreamfactory.com/
     
 -   title: Waffelschmiede
     subtitle: Logo Design
@@ -30,6 +32,7 @@
     client: Waffelschmiede
     category: Logo Design
     description: 
+    link:
     
 -   title: Omnom Burger
     subtitle: Photos
