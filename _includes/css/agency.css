@@ -6,7 +6,7 @@
 
 @media(max-width:640px) {
     .responsive-heading {
-    font-size: 26px;
+    font-size: 26px !important; 
 }
 
 }
