@@ -32,7 +32,7 @@
     client: Waffelschmiede
     category: Logo Design
     description: 
-    link:
+    link: https://www.facebook.com/waffelschmiede?fref=ts
     
 -   title: Omnom Burger
     subtitle: Photos
@@ -44,6 +44,7 @@
     client: Omnom Burger
     category: Photos 
     description: 
+    link:
     
 -   title: Bierat
     subtitle: Logo Design
@@ -55,3 +56,4 @@
     client: Der Bierat
     category: Logo Design
     description: 
+    link:
