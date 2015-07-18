@@ -16,11 +16,11 @@ margin-top: 80px;
 }
 
 section h8.section-subheading {
-    text-transform: uppercase;
+    text-transform: none;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 16px;
+    font-size: 17px;
     font-weight: 700;
-    margin-top: 10.5px;
+    margin-top: 20px;
     margin-bottom: 25px;
     line-height: 1.1;
 }
@@ -767,7 +767,7 @@ section#contact .form-control:focus {
 }
 
 section#contact::-webkit-input-placeholder {
-    text-transform: uppercase;
+    text-transform: none;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
