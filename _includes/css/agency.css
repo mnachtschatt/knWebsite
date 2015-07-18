@@ -4,6 +4,13 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+@media(max-width:640px) {
+    .responsive-heading {
+    font-size: 26px;
+}
+
+}
+
 .space {
 margin-top: 80px;
 }
